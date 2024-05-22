@@ -1,0 +1,117 @@
+body {
+  background-image: url(../image/ddd8djc-68b444e6-738d-4428-822c-aac14e42c134.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+h4 {
+  text-align: center;
+  margin-top: 10px;
+}
+form {
+  width: 40%;
+  padding: 40px;
+  border-radius: 20px;
+  margin-top: 40px;
+  margin-left: 320px;
+}
+.card {
+  height: 555px;
+  width: 464px;
+  border-radius: 20px;
+}
+.username label {
+  margin-left: 45px;
+  margin-top: 20px;
+}
+.username input {
+  height: 40px;
+  width: 362px;
+  margin-left: 45px;
+  border-radius: solid;
+  border-color: transparent;
+}
+.email label {
+  margin-left: 45px;
+  margin-top: 20px;
+}
+.email input {
+  height: 40px;
+  width: 362px;
+  margin-left: 45px;
+  border-radius: solid;
+  border-color: transparent;
+}
+.password input {
+  height: 40px;
+  width: 362px;
+  margin-left: 45px;
+  border-style: solid;
+  border-color: transparent;
+  background-color: transparent;
+}
+.password label {
+  margin-left: 45px;
+  margin-top: 20px;
+}
+.password-again input {
+  height: 40px;
+  width: 362px;
+  margin-left: 45px;
+  border-style: solid;
+  border-color: transparent;
+  background-color: transparent;
+}
+.password-again label {
+  margin-left: 45px;
+  margin-top: 20px;
+}
+.checkbox {
+  margin-top: 15px;
+  margin-left: 45px;
+}
+.checkbox button {
+  margin-left: 115px;
+  border-color: transparent;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.sign-in button {
+  height: 40px;
+  width: 362px;
+  margin-left: 45px;
+  border-radius: 20px;
+  border-color: transparent;
+  background-color: #7ec0ee;
+  margin-top: 10px;
+}
+.icon-facebook button {
+  margin-left: 45px;
+  border-color: transparent;
+  background-color: #33ccff;
+  margin-top: 20px;
+  width: 90px;
+  height: 33px;
+  border-radius: 10px;
+}
+.icon-google {
+  margin-left: 183px;
+  margin-top: -33px;
+}
+.icon-google button {
+  border-color: transparent;
+  width: 90px;
+  height: 33px;
+  border-radius: 10px;
+  background-color: gray;
+}
+.icon-apple {
+  margin-left: 315px;
+  margin-top: -33px;
+}
+.icon-apple button {
+  border-color: transparent;
+  width: 90px;
+  height: 33px;
+  border-radius: 10px;
+  background-color: black;
+}

@@ -150,7 +150,7 @@
 }
 .section-three .inner-title {
   color: #ffffff;
-  font-size: 50px;
+  font-size: 43px;
   font-weight: 700;
   margin-top: 30px;
 }
@@ -173,6 +173,11 @@
 .section-four .inner-title-header {
   font-size: 30px;
   font-weight: 500;
+}
+.section-four .inner-title h2 {
+  font-size: 48px;
+  font-weight: 500;
+  text-align: center;
 }
 .section-four .inner-logo {
   width: 60%;
@@ -307,6 +312,7 @@
 
 /* Section-eight  */
 .section-eight {
+  background-image: url(../img/teamfight-tactics-featherknight-uhdpaper.com-hd-3.787.jpg);
   padding: 100px 0;
 }
 
@@ -347,7 +353,7 @@
 
 /* <!-- section-nine --> */
 .section-nine {
-  background-image: url(../img/dtcl-chi-gai-cua-aphelios-alune-se-xuat-hien-trong-tft-mua-11-240227073033.jpg);
+  background-image: url(../img/tft-little-legends-uhdpaper.com-hd-7.3008.jpg);
   background-size: cover;
   padding: 100px;
 }
